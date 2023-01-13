@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 ![alt text](IMG_9277.jpg)
 
@@ -12,7 +12,7 @@ My current classes:
 4. EE 492: Electrical Engineering Leadership Seminar
 5. CSE 373: Data Structures and Algorithms
 
-# Hobbies
+### Hobbies
 
 I love to consume many types of media - including, but not limited to: novels, webnovels, manga, anime, live-action TV series,
 movies, etc. Currently, I am reading an English translated version of The King's Avatar, which is originally a Chinese webnovel.
